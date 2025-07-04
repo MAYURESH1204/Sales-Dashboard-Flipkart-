@@ -1,90 +1,93 @@
-📊 Flipkart Mobile Market Insights Dashboard
+# 📊 Flipkart Mobile Market Insights Dashboard
+
 An interactive Power BI dashboard that provides deep market analysis of mobile phones listed on Flipkart. This project offers insights into pricing segments, top-selling brands, discount strategies, product specifications, and customer satisfaction ratings.
 
-📌 Overview
+---
+
+## 📌 Overview
+
 This dashboard was created to visualize and analyze the Flipkart mobile dataset, highlighting trends in product listings, pricing, brand dominance, and customer preferences. It helps identify high-performing models, optimal price segments, and common configurations.
 
-🔍 Key Insights
-Total Mobiles Analyzed: 662 listings across 17 brands
+---
 
-Total Sales: ₹72 Million
+## 🔍 Key Insights
 
-Total Discount Offered: ₹6 Million
+- **Total Mobiles Analyzed**: 662 listings across 17 brands  
+- **Total Sales**: ₹72 Million  
+- **Total Discount Offered**: ₹6 Million  
+- **Average User Rating**: ⭐ 4.24  
+- **Top Selling Brand**: Apple  
+- **Most Common RAM**: 4 GB  
+- **Most Popular Storage Option**: 64 GB  
 
-Average User Rating: ⭐ 4.24
+---
 
-Top Selling Brand: Apple
+## 📁 Dashboard Sections
 
-Most Common RAM: 4 GB
-
-Most Popular Storage Option: 64 GB
-
-📁 Dashboard Sections
-🧭 Navigation Pane
+### 🧭 Navigation Pane
 Guides users through multiple layers of analysis.
 
-💰 Price Segments
-Breakdown of phones across four price categories:
+### 💰 Price Segments
+- Breakdown of phones across four price categories:
+  - Premium (₹40K+)
+  - Upper Mid (₹20K–₹40K)
+  - Mid Range (₹10K–₹20K)
+  - Low Range (< ₹10K)
 
-Premium (₹40K+)
+### 🏷 Top Brands
+- Visualization of top brands by:
+  - Number of listings
+  - Total sales
+  - Average rating
 
-Upper Mid (₹20K–₹40K)
+### 🎯 Segment Coverage
+- Brand-wise distribution across different price segments
 
-Mid Range (₹10K–₹20K)
+### 🧪 Common Specifications
+- Most common RAM and storage configurations
+- Specification distribution by brand
 
-Low Range (< ₹10K)
+### 🔍 Advanced Insights
+- Top discounted phones
+- Highest rated brands
+- Best-selling models
+- Brand-wise sales contribution
 
-🏷 Top Brands
-Visualization of top brands by:
+---
 
-Number of listings
+## 📈 Tools Used
 
-Total sales
+- **Power BI Desktop**: For data visualization and interactive dashboard creation
+- **Flipkart Mobile Dataset**: Prepared and cleaned for analysis (sourced independently)
 
-Average rating
+---
 
-🎯 Segment Coverage
-Brand-wise distribution across different price segments
+## 📎 Use Cases
 
-🧪 Common Specifications
-Most common RAM and storage configurations
+- 📦 E-commerce product managers exploring market competition
+- 📱 Mobile brands evaluating pricing and spec trends
+- 🧠 Data analysts learning Power BI through real-world datasets
 
-Specification distribution by brand
+---
 
-🔍 Advanced Insights
-Top discounted phones
+## 🙋‍♂️ Author
 
-Highest rated brands
-
-Best-selling models
-
-Brand-wise sales contribution
-
-📈 Tools Used
-Power BI Desktop: For data visualization and interactive dashboard creation
-
-Flipkart Mobile Dataset: Prepared and cleaned for analysis (sourced independently)
-
-📎 Use Cases
-📦 E-commerce product managers exploring market competition
-
-📱 Mobile brands evaluating pricing and spec trends
-
-🧠 Data analysts learning Power BI through real-world datasets
-
-🙋‍♂️ Author
-Mayuresh Patil
+**Mayuresh Patil**  
 Aspiring Data Analyst | Passionate about data storytelling using BI tools
 
-🔗 LinkedIn Profile (Update this link)
-📧 Email
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/mayureshpatil2004/)  
+📧 [Email](mailto:mppatil2104@gmail.com)
 
-📌 How to Use
-Clone this repository
+---
 
-Open the .pbix file using Power BI Desktop
+## 📌 How to Use
 
-Interact with the filters and slicers for deeper insights
+1. Clone this repository
+2. Open the `.pbix` file using Power BI Desktop
+3. Interact with the filters and slicers for deeper insights
 
-📄 License
+---
+
+## 📄 License
+
 This project is intended for educational and portfolio use. Attribution appreciated.
