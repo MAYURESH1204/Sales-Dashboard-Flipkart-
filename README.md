@@ -77,6 +77,7 @@ Aspiring Data Analyst | Passionate about data storytelling using BI tools
 
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/mayureshpatil2004/)  
 📧 [Email](mailto:mppatil2104@gmail.com)
+📁 [Video Link](https://drive.google.com/file/d/166Tnx9_uXCUwNOo5heVIjeslWlLvvIkg/view?usp=sharing)
 
 ---
 
